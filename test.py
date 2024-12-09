@@ -2,7 +2,6 @@ from JutSuApi import JutsuScraper
 from JutSuApi import SingleThreadDownloader
 
 
-# Пример использования
 def main():
     url = "https://jut.su/nier-automata/episode-7.html"
     output_folder = "videos"
